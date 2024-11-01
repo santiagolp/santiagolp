@@ -22,7 +22,7 @@ Developing solutions for:
 -->
 ## 📫 Contact
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santiago-dellepiane-b829a952/)
-[![X](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/sjdsan)
+[![X](https://img.shields.io/badge/-X-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/sjdsan)
 
 <!--
 **santiagolp/santiagolp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
