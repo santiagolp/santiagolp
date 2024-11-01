@@ -1,4 +1,4 @@
-# ¡Hola! 👋 Soy Santiago
+# ¡Hola! 👋 
 
 ## 👨‍💻 About me
 🚀 Passionate about creating web applications using modern technologies
