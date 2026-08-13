@@ -11,6 +11,8 @@ Developing solutions for:
 - 🏁 End-to-end Supply Chain Traceability
 - 🌱 Learning Go
 - 👯 Looking to collaborate with the developer community
+- 🤖 Local AI inference
+- 📦 Object recognition training
 
 ## ✍ Blog
 
